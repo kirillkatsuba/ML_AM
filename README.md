@@ -1,1 +1,1 @@
-# Machine-Learning-in-applied-problem
+# Machine Learning in applied problem
